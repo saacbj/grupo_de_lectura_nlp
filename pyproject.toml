@@ -1,0 +1,12 @@
+[project]
+name = "grupo_de_lectura_nlp"
+version = "0.0.1"
+description = "Repositorio del club de lectura de papers NLP del lab L52+, IIMAS, UNAM"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter-ruff>=0.3.1",
+    "jupyterlab>=4.6.3",
+    "jupyterlab-rise>=0.43.1",
+    "sacrebleu>=2.6.0",
+]
