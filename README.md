@@ -33,10 +33,10 @@ Grupo de lectura para revisar artículos fundamentales y del estado del arte en 
 
 ##### Primera edición (semestre 2027-1) · 15 artículos
 
-| Title | Model | Year | ArXiv Link | Score/Count | Associated Person | Contexto |
+| Title | Model | Year | ArXiv Link | Score/Count | Associated Person | Comentarios |
 | :--- | :--- | :--- | :--- | :---: | :--- | :--- |
 | Efficient Estimation of Word Representations in Vector Space | Word2Vec, w2v | 2013 | https://arxiv.org/abs/1301.3781 | 1 | Isaac | |
-| Neural Machine Translation By Jointly Learning to Align and Translate | Atención | 2016 | https://arxiv.org/abs/1409.0473 | 1 | Diego | |
+| Neural Machine Translation By Jointly Learning to Align and Translate | Atención | 2016 | https://arxiv.org/abs/1409.0473 | 1 | Diego | [Presentación en jupyter notebooks](2027-1/attention/presentation.md)|
 | Attention Is All You Need | Transformers | 2017 | https://arxiv.org/abs/1706.03762 | 1 | Isaac | |
 | "Improving Language Understanding by Generative Pre-Training" | GPT | 2018 | https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf | 1 | | |
 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT | 2019 | https://arxiv.org/abs/1810.04805 | 1 | | |
